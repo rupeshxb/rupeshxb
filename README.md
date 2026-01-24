@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @rupeshxb.
-- 👀 I’m interested in software engineering and AI/ML.
-- 🌱 I’m currently learning Tensorflow.
-- 💞️ I’m looking to collaborate on projects related to software and mobile application development.
+## Hi, I'm Rupesh Bhatta 👋
+- I build scalable software and mobile applications that solve real-world problems. With experience across diverse projects, I focus on writing clean, efficient code and    delivering solutions that make an impact.
 - 📫 You can reach me through email: rupeshbhatta.rb@gmail.com
+
 
 ## 📊 Top Languages Used
 
