@@ -6,7 +6,8 @@
 
 - ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshxb&layout=donut&hide=html,css,scss)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshxb&layout=compact&langs_count=20&hide=html,css,scss)
+
 
 
 
