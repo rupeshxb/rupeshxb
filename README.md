@@ -6,7 +6,8 @@
 
 - ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshxb&layout=compact&langs_count=20&hide=html,css,scss)
+![Languages Pie](https://metrics.lecoq.io/rupeshxb?template=classic&languages=1&languages_limit=0&languages_ignored=html,css,scss)
+
 
 
 
