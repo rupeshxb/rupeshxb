@@ -6,7 +6,8 @@
 
 - ## 📊 Most Used Languages
 
-![Languages Pie](https://metrics.lecoq.io/rupeshxb?template=classic&languages=1&languages_limit=0&languages_ignored=html,css,scss)
+!![Languages Pie Chart](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rupeshxb&exclude=html,css,scss)
+
 
 
 
