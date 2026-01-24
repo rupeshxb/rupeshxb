@@ -1,7 +1,8 @@
 ## Hi, I'm Rupesh Bhatta 👋
-- I build scalable software and mobile applications that solve real-world problems. With experience across diverse projects, I focus on writing clean, efficient code and    delivering solutions that make an impact.
-- 📫 You can reach me through email: rupeshbhatta.rb@gmail.com
 
+I build scalable software and mobile applications that solve real-world problems. I enjoy collaborating on projects related to software development, mobile apps, and practical technology solutions. I focus on writing clean, efficient code and delivering solutions that make an impact.  
+
+📫 Reach me at: rupeshbhatta.rb@gmail.com
 
 ## 📊 Top Languages Used
 
