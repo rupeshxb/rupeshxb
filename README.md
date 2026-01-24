@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on projects related to software and mobile application development.
 - 📫 You can reach me through email: rupeshbhatta.rb@gmail.com
 
-## 📊 Most Used Languages
+## 📊 Top Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshxb&layout=bar-vertical&langs_count=20&hide=html,css,scss&hide_title=false&title_color=ffffff&text_color=ffffff&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshxb&layout=compact&langs_count=20&hide=html,css,scss&hide_title=false&title_color=ffffff&text_color=ffffff&bg_color=0d1117)
+
 
 
 
