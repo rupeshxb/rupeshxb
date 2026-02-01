@@ -7,12 +7,6 @@ Hi, I'm Rupesh Bhatta 👋
 
 
 
-## 📊 Top Languages Used
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshxb&layout=compact&hide=html,css,scss&theme=dark"/>
-
-
-
 
 
 
