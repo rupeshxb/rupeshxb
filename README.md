@@ -4,6 +4,7 @@ Hi, I'm Rupesh Bhatta 👋
 - Collaborating on impactful software and mobile projects.  
 - Writing clean, efficient code that delivers results.  
 - 📫 Reach me at: rupeshbhatta.rb@gmail.com
+- View my portfolio at: https://rupeshbhatta.com.np
 
 
 
